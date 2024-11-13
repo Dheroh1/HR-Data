@@ -50,5 +50,19 @@ Select *
 
 ### Data Visualisation
 
+
+![HR Data1(i)](https://github.com/user-attachments/assets/fd56f26f-8df5-448e-9fda-52e3bcbe6ccc)
+
+![HR Data1(iii)](https://github.com/user-attachments/assets/96320a8b-7d3c-40b9-afa3-0be394587d4f)
+
+![HR Data1(ii)](https://github.com/user-attachments/assets/74959cce-b586-450c-a54f-6c9f39e42fa2)
+
+
+
+
+
+
+
+
  
 
