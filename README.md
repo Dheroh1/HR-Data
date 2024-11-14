@@ -48,11 +48,11 @@ These are some of the codes, queries and DAX expressions employed in the courese
 ![HR Data1(i)](https://github.com/user-attachments/assets/040842dc-76fb-4f28-99af-a15b59ff25bf)
 Attrition Rate: The current employee count is 1,233, reflecting a decrease of 237 employees from the initial estimate of 1,470 at the start of the period. This results in an attrition rate of 16%.
 
-Attrition is more prevalent among males across all age groups. Additionally, the age group of 25-34 exhibits the highest attrition rate for both genders, while individuals over 55 years old experience the lowest attrition rate.
+Attrition by gender and age group: Attrition is more prevalent among males across all age groups. Additionally, the age group of 25-34 exhibits the highest attrition rate for both genders, while individuals over 55 years old experience the lowest attrition rate.
 
 ![HR Data1(iii)](https://github.com/user-attachments/assets/96320a8b-7d3c-40b9-afa3-0be394587d4f)
 
-Research and Development (R&D) department have the highedt rate of attrition out of all the departments in the organisation. Individuals with degree in life science have the highest number of attrtion followed by medical.
+Attrition by department and educational field: The Research and Development (R&D) department has the highest attrition rate compared to all other departments in the organization. Additionally, individuals with a degree in life sciences experience the highest rate of attrition, followed by those with medical degrees.
 
 ![HR Data1(ii)](https://github.com/user-attachments/assets/74959cce-b586-450c-a54f-6c9f39e42fa2)
 
