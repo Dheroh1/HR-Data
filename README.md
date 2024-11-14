@@ -16,10 +16,10 @@ One of the projects carried out during powerbi class
 [Data Visualisation](#data-visualisation)
 
 ### Project Overview
-This data analysis involves analyzing customer data for a subscription service to identify segments and trends. The analysis will focus on identifying customer behaviour, track subscription types, and identify key trends in cancellations and renewals.
+This data analysis involves analyzing the human resource department record of an organisation in order to have insight into the pattern of attrition of experienced in the company. The analysis will focus on identifying attrition rate based on gender, age group, department etc. 
 
 ### Data Sources
-The main source of the data is CustomerData.csv given in class specifically for this project.
+The main source of the data is HRData.csv specifically given in class for this project.
 
 ### Tools Used
 - Microsoft Excel [download here](https://www.microsoft.com)
@@ -27,7 +27,7 @@ The main source of the data is CustomerData.csv given in class specifically for 
   2. analysis and
   3. visualisation
   
-- PowerBI for for further analysis and visualization of insights from excel and SQL
+- PowerBI for data analysis and visualization of insights
 - GitHub for Portfolio Building
 
 ### Data Exploration
@@ -52,8 +52,10 @@ Attrition is more prevalent among males across all age groups. Additionally, the
 
 ![HR Data1(iii)](https://github.com/user-attachments/assets/96320a8b-7d3c-40b9-afa3-0be394587d4f)
 
+Research and Development (R&D) department have the highedt rate of attrition out of all the departments in the organisation. Individuals with degree in life science have the highest number of attrtion followed by medical.
 
 ![HR Data1(ii)](https://github.com/user-attachments/assets/74959cce-b586-450c-a54f-6c9f39e42fa2)
+
 
 
 
