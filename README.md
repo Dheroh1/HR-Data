@@ -37,9 +37,8 @@ The main source of the data is CustomerData.csv given in class specifically for 
 - what is the total number of employee?
 - what is the number of attrition?
 - what is the total number of current employee?
-- which are the top 3 regions with the highest subscription cancellations?
-- what is the total number of active and canceled subscriptions?
-- who are customers who canceled their subscription within 6 months?
+- what is the attrition rate?
+- what is the average age of employees?
 
 ### Data Analysis
 These are some of the codes, queries and DAX expressions employed in the courese of the analyis:
@@ -51,6 +50,7 @@ Select *
 ### Data Visualisation
 
 
+![HR Data1(i)](https://github.com/user-attachments/assets/040842dc-76fb-4f28-99af-a15b59ff25bf)
 
 
 ![HR Data1(iii)](https://github.com/user-attachments/assets/96320a8b-7d3c-40b9-afa3-0be394587d4f)
